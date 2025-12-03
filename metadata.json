@@ -1,0 +1,7 @@
+{
+  "name": "The Hungry Hive",
+  "description": "A modern, responsive restaurant website for The Hungry Hive featuring a menu, gallery, testimonials, and contact information.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
